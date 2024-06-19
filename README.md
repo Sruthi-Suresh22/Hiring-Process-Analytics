@@ -2,9 +2,10 @@
 
 ## Table of Contents
 
-- [Project Description](#project_description)
-- [Dataset Details](#dataset_details)
-- [Data Cleaning](#data_cleaning)
+- [Project Description](#project-description)
+- [Dataset Details](#dataset-details)
+- [Data Cleaning](#data-cleaning)
+- [Data Analytics Tasks](#data-analytics-tasks)
 - [Insights](#insights)
 - [Conclusion](#conclusion)
 
