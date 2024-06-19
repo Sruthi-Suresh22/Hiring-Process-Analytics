@@ -1,5 +1,13 @@
 # HIRING PROCESS ANALYTICS
 
+## Table of Contents
+
+- [Project Description](#project_description)
+- [Dataset Details](#dataset_details)
+- [Data Cleaning](#data_cleaning)
+- [Insights](#insights)
+- [Conclusion](#conclusion)
+
 ## Project Description
 
 The hiring process is a crucial function of any company, and understanding trends such as the number of rejections, interviews, job types, and vacancies can provide valuable insights for the hiring department. The goal of this project is to use the knowledge of statistics and Excel to draw meaningful conclusions about the company's hiring process. As a data analyst at a multinational company like Google, the task is to analyze the company's hiring process data and draw meaningful insights from it. The insights gained could potentially help the company improve its hiring process and make better hiring decisions in the future.
@@ -71,34 +79,34 @@ The Dataset **Statistics.xlsx** consists of 7,168 records with the following det
 ![h3a](https://github.com/Sruthi-Suresh22/Hiring-Process-Analytics/assets/162356465/5752d009-67d8-4607-9f45-57c16e4e5a9f)
 ![h3b](https://github.com/Sruthi-Suresh22/Hiring-Process-Analytics/assets/162356465/efaa701c-2ac1-45ef-aab1-57d21059b8fd)
 
-- The Average salary for hired candidates is found to be currency unit 49593.02.
-- The department having the highest Average salary is “General Management”.
+- The **Average salary** for hired candidates is found to be **currency unit 49593.02**.
+- The department having the highest Average salary is “**General Management**”.
 
 **C. Salary Distribution:**
 
 ![h4](https://github.com/Sruthi-Suresh22/Hiring-Process-Analytics/assets/162356465/99814904-4610-4830-86a5-24268ca07df6)
 
-- Most of the employees are receiving salary in the range 40001-50000, 500001-60000 which corresponds to average salary given to the hired candidates by the company.
+- Most of the employees are receiving salary in the range **40001-50000**, **500001-60000** which corresponds to average salary given to the hired candidates by the company.
 - Almost there is an equal distribution of  employees from fresher to mid -senior to senior levels.
 
 **D. Departmental Analysis:**
 
 ![h5](https://github.com/Sruthi-Suresh22/Hiring-Process-Analytics/assets/162356465/27fbae3a-c2f2-42c7-98e9-260cda1a67ac)
 
-- Operations Department has the highest number of employees 1843 in number contributing 39.2% of the total employees followed by Service Department contributing 28.4% with 1332 employees.
-- Least number of employees are present in the Human Resource Department with 70 employees.
+- **Operations Department** has the **highest** number of employees **1843** in number contributing **39.2%** of the total employees followed by **Service Department** contributing **28.4%** with **1332** employees.
+- **Least** number of employees are present in the **Human Resource Department** with **70** employees.
 
 **E. Position Tier Analysis:**
 
 ![h6](https://github.com/Sruthi-Suresh22/Hiring-Process-Analytics/assets/162356465/cf02fa12-12c4-4169-a5b6-ef3dd36d27a7)
 
-- We can observe that the Company has hired most candidates for c9 post-tier followed by c5 and i7.
-- Least number of employees are hired for n6 and m6. 
+- We can observe that the Company has hired **most candidates** for **c9** post-tier followed by **c5** and **i7**.
+- **Least number of employees** are hired for **n6** and **m6**. 
 - There are no employees hired for n10, m7 and n9 post tiers.
 
 ## Conclusion
 
-The Hiring Process Analytics project have helped in understanding the concept of Exploratory Data Analysis and pivot tables along with using some of functions in MS Excel. By understanding more on the insights gained from this analysis such as hiring patterns, salary distribution and department-wise composition , the company can focus more the strategies to be taken during the recruitment process and also in promoting organizational growth.
+The Hiring Process Analytics project have helped in understanding the concept of Exploratory Data Analysis and pivot tables along with using some of functions in MS Excel. By understanding more on the insights gained from this analysis such as hiring patterns, salary distribution and department-wise composition, the company can focus more the strategies to be taken during the recruitment process and also in promoting organizational growth.
 
 
 
